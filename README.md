@@ -1,5 +1,5 @@
 # Alpine-s6
-Alpine Linux base image with s6 overlay
+Alpine Linux base image with s6 overlay  
 <https://hub.docker.com/repository/docker/philipwold/alpine-s6>
 
 ## What is Alpine Linux
